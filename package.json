@@ -1,0 +1,25 @@
+{
+  "name": "ngajingoding",
+  "version": "1.0.0",
+  "description": "Whatsapp Bot Basic Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Whatsapp",
+    "Bot"
+  ],
+  "type": "commonjs",
+  "author": "AbahBrian",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.1.0",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "awesome-phonenumber": "^3.0.2",
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "moment-timezone": "^0.5.34",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
